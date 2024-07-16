@@ -48,5 +48,7 @@ class Solution {
         }
     }
 }
+//bubble sort
+//dutch flag method
 // @lc code=end
 
