@@ -19,5 +19,6 @@ class Solution {
         return -1;
     }
 }
+//sorting aur fhir first number ko second ke sath compare
 // @lc code=end
 
